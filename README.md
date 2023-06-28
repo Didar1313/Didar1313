@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Didar Bhuiyan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibdidar&label=Profile%20views&color=0e75b6&style=flat" alt="ibdidar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibdidar" alt="ibdidar" /></a> </p>
 
 - 🌱 I’m currently learning **Java,Spring Boot,JS,XML,Json,PHP**
 

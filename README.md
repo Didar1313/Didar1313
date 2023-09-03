@@ -6,7 +6,6 @@
 
 - 📫 How to reach me **didarbhuiyan1313@gmail.com**
 
-- ⚡ Fun fact **I think i am too lazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

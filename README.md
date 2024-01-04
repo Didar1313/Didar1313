@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibdidar&label=Profile%20views&color=0e75b6&style=flat" alt="ibdidar" /> </p>
 
 
-- 🌱 I’m currently learning **Java,Spring Boot
+- 🌱 Currently learning **Java,Spring Boot
 
 - 📫 How to reach me **didarbhuiyan1313@gmail.com**
 
